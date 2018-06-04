@@ -1,0 +1,21 @@
+{
+  "name": "react_express_grocery",
+  "description": "Simple express + react + mongoDB Grocery\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Gr\u001b[2~o",
+  "main": "main.js",
+  "authors": [
+    "Pr0sper0"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0",
+    "skeleton": "^2.0.4"
+  }
+}
